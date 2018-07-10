@@ -1,0 +1,9 @@
+Building HMNCoin
+
+See doc/readme-qt.rst for instructions on building HMNCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HMNCoin.
+
+See doc/build-*.txt for instructions on building hmncoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HMNCoin.
